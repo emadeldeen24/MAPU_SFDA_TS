@@ -1,4 +1,4 @@
-# [KDD 2023] Source-Free Domain Adaptation with Temporal Imputation for Time Series Data [[Paper]()] [[Cite](#citation)]
+# [KDD 2023] Source-Free Domain Adaptation with Temporal Imputation for Time Series Data [[Paper](https://arxiv.org/abs/2307.07542)] [[Cite](#citation)]
 #### *by: Mohamed Ragab, Emadeldeen Eldele,   Min Wu, Chuan-Sheng Foo, Xiaoli Li, Zhenghua Chen* <br/> 
 
 ## Accepted in the [29th SIGKDD Conference on Knowledge Discovery and Data Mining - Research Track](https://kdd.org/kdd2023/).
@@ -78,7 +78,7 @@ and the different risks scores.
 ## Citation
 If you found this work useful for you, please consider citing it.
 ```
-@inproceedings{mpau,
+@inproceedings{mapu,
   author = {Ragab, Mohamed and Eldele, Emadeldeen and Foo, Chuan-Sheng and Wu, Min and Li, Xiaoli and Chen, Zhenghua},
   title = {Source-Free Domain Adaptation with Temporal Imputation for Time Series Data},
   booktitle={29th SIGKDD Conference on Knowledge Discovery and Data Mining - Research Track},
