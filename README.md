@@ -1,4 +1,4 @@
-# [KDD 2023] Source-Free Domain Adaptation with Temporal Imputation for Time Series Data [[Paper](https://arxiv.org/abs/2307.07542)] [[Cite](#citation)]
+# [KDD 2023] Source-Free Domain Adaptation with Temporal Imputation for Time Series Data [[Paper](https://dl.acm.org/doi/10.1145/3580305.3599507)] [[Cite](#citation)]
 #### *by: Mohamed Ragab, Emadeldeen Eldele,   Min Wu, Chuan-Sheng Foo, Xiaoli Li, Zhenghua Chen* <br/> 
 
 ## Accepted in the [29th SIGKDD Conference on Knowledge Discovery and Data Mining - Research Track](https://kdd.org/kdd2023/).
@@ -78,12 +78,21 @@ and the different risks scores.
 ## Citation
 If you found this work useful for you, please consider citing it.
 ```
-@inproceedings{mapu,
-  author = {Ragab, Mohamed and Eldele, Emadeldeen and Foo, Chuan-Sheng and Wu, Min and Li, Xiaoli and Chen, Zhenghua},
+@inproceedings{MAPU,
+  author = {Ragab, Mohamed and Eldele, Emadeldeen and Wu, Min and Foo, Chuan-Sheng and Li, Xiaoli and Chen, Zhenghua},
   title = {Source-Free Domain Adaptation with Temporal Imputation for Time Series Data},
-  booktitle={29th SIGKDD Conference on Knowledge Discovery and Data Mining - Research Track},
   year = {2023},
-  url={https://openreview.net/forum?id=v6GK0ijPW0B}
+  isbn = {9798400701030},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3580305.3599507},
+  doi = {10.1145/3580305.3599507},
+  booktitle = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages = {1989–1998},
+  numpages = {10},
+  keywords = {time series data, temporal imputation, source-free domain adaptation, privacy preserving},
+  location = {Long Beach, CA, USA},
+  series = {KDD '23}
 }
 ```
 
